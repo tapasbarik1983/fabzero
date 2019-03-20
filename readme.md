@@ -1,18 +1,10 @@
 My Experiences and Learning about Installation and operation of Fablab at STPI-Bhubaneswar
 
 
-
-
-
-
-
-
-
 Training 
-===============
 Date-18.03.2019  
-================
-#####Vinyl Cutter##### 
+
+# Vinyl Cutter
 
 Vinyl cutter in our fab lab is brand of Roland.
 1.how to fix vinyl spindle for cutting
@@ -21,11 +13,18 @@ it has a small knife which should be take care for its tips for Better cutting  
 
 ![vinyl cutter](image/vinyl1.jpg)
 
-######Laser cutter #######
+# Link
+This link is for vinylcutter
+[vinylcutter](/vinylcutter.md)
+
+
+# Laser cutter 
 
 The laser cutter uses laser optics and CNC which generated laser beam.
 The focused laser beam is directed at the material which then melts,burn,vaporizes.
 The laser cutter is connected filter for filter the out put of laser cutter.
+
+
 
 ##### Filter Purex ######
 
@@ -80,5 +79,7 @@ In the shop bot lab there are other three
   4.Installation of Spell checker.
   5.Installation of cura for 3d printing.
   6.Installation of KICAD 
+
+
 
 
