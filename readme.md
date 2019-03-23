@@ -54,22 +54,23 @@ This link is for [shopbot](/shopbot.md)
 
 # Training for day 3 date:-20-03-2019
 
-1.training started at 10 AM
+1. training started at 10 AM
 
-2.How do I create a hyperlink in the README file in my GitHub account which would redirect to a new page containing the project explanation?
+2. * How do I create a hyperlink in the readme.md file in my GitHub account which would redirect to a new page containing the project explanation?
 
-i create multiple files for each lab equipment explanation 
+3. * i create multiple files for each lab equipment explanation 
 [TEXT TO SHOW](actual URL to navigate)
 
-3.mentor emphasized to do by yourself by using document
+4. * mentor emphasized to do by yourself by using document
 
-4.As my laptop is linux os so i could not install 3d wox so cura is alternet for that but i could not for network printing its only work through USB.BUt i watch with other laptop for installation and working process of 3D WOX for printing 3D objects in Sindoh
+5. * As my laptop is linux os so i could not install 3d wox so cura is alternate for that but i could not for network printing its only work through USB.
+6. * But i watch with other laptop for installation and working process of 3D WOX for printing 3D objects in Sindoh
 
-5.PCB designing using kicad.
+7. * PCB designing using kicad.
 
-6.Used Inkscape to design the sticker to be cut by vinyle cutter (Roland), Used Vinyle cutter to cut sticker in name for putting in Laptop.
+8. *  Used Inkscape to design the sticker to be cut by vinyle cutter (Roland), Used Vinyle cutter to cut sticker in name for putting in Laptop.
 
-make a design of my own name and make to format of the file into .cmm using http://fabmodules.org/
+9. * make a design of my own name and make to format of the file into .cmm using http://fabmodules.org/
 
-7.End of the session by printing my name with vinyl cutter.
+10. * End of the session by printing my name with vinyl cutter.
 
