@@ -4,29 +4,24 @@
 # Training 
    ## Date-18.03.2019
 
-## Vinyl Cutter
-** link **
-This link is for vinylcutter
+### Vinyl Cutter
+* This link is for vinylcutter
 [vinylcutter](/vinylcutter.md)
 
-##  Laser cutter 
-** link **
-This link is for laser cutter
+###  Laser cutter 
+* This link is for laser cutter
 [lasercutter](/lasercutter.md)
 
-## Filter Purex 
-** link **
-This link is for filter
+### Filter Purex 
+* This link is for filter
  [filter-purex](/filterpurex.md)
 
-## Mini-Milling Machine (Mini-CNC)
-** link **
-This link is for minimilling machine
+### Monofab SRM-20)
+* This link is for minimilling machine
  [monofab](/monofab.md)
 
-## Electronics lab Equipments 
-** link **
-This link is for Electronics equipments
+### Electronics lab Equipments 
+* This link is for Electronics equipments
 [electronics](/electronics.md)
 
 ## Shop bot CNC 
