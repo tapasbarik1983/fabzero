@@ -1,76 +1,81 @@
-# My Experiences and Learning about      Installation and operation of Fablab equipments  at STPI-Bhubaneswar
+# My Experiences and Learning about      Installation and operation equipments  at of Fablab, STPI-Bhubaneswar
 
 
 # Training 
-** Date-18.03.2019 ** 
+   ## Date-18.03.2019
 
-# Vinyl Cutter
+## Vinyl Cutter
 ** link **
 This link is for vinylcutter
 [vinylcutter](/vinylcutter.md)
 
-# Laser cutter 
+##  Laser cutter 
 ** link **
 This link is for laser cutter
 [lasercutter](/lasercutter.md)
 
-# Filter Purex 
+## Filter Purex 
 ** link **
 This link is for filter
  [filter-purex](/filterpurex.md)
 
-# Mini-Milling Machine (Mini-CNC)
+## Mini-Milling Machine (Mini-CNC)
 ** link **
 This link is for minimilling machine
  [monofab](/monofab.md)
 
-# Electronics lab Equipments 
+## Electronics lab Equipments 
 ** link **
 This link is for Electronics equipments
 [electronics](/electronics.md)
 
-# Shop bot CNC 
+## Shop bot CNC 
 ** link **
 This link is for [shopbot](/shopbot.md)
 
+ # Training for day 2 
+   ## date:-19-03-2019
 
- # Training for day 2 date:-19-03-2019
+## 1.Installation of visual studio.
+ *  Publishing training documentation  and project to GitHub.
+## 2.Installation of Git Repository.
+* Create a  repository on GitHub. .
+* Open  Bash the terminal.
+* Initialize the local directory as a Git repository. 
+*  Add the files in your new local repository. 
+*  Commit the files that you've staged in your local repository
 
-1.Installation of visual studio.
-    * Publishing training and project to GitHub.
-    
-2.Installation of Git Repository.
-    Create a  repository on GitHub. .
-    Open  Bash the terminal.
-    Change the current working directory to your local project.
-    Initialize the local directory as a Git repository. 
-    Add the files in your new local repository. 
-    Commit the files that you've staged in your local repository.
+ ## softwares 
+  1. #### install visual Studio Code
+  2. #### install Code Spell Checker in visual Studio Code
+  3. #### Git
+  4. #### Inkscape (2D printing ) 
+  5. #### Cura (3D printing)
+  6. #### Sindoh 3DWOX   (3d printing.its only in window )
+  7. #### kicad   ( PCB designing )
+  8. #### Freecad (FreeCAD is a free and open-source for     3D CAD modeler  )
 
-  3.Added  Git  repository in Virtual Studio
-  4.Installation of Spell checker.
-  5.Installation of cura for 3d printing.
-  6.Installation of KICAD 
+ # Training for day 3 
+   ## date:-20-03-2019
 
-# Training for day 3 date:-20-03-2019
+1. ### training started at 10 AM
+2. #### How do I create a hyperlink in the readme.md file in my GitHub account which would redirect to a new page containing the project explanation?
+3. #### i create multiple files for each lab equipment explanation[TEXT TO SHOW](actual URL to navigate)
+4. #### mentor emphasized to do by yourself by using document
+5.  #### As my laptop is linux os so i could not install 3d wox so cura is alternate for that but i could not for network printing its only work through USB.
+6. ####  But i watch with other laptop for installation and working process of 3D WOX for printing 3D objects in Sindoh
 
-1. training started at 10 AM
+7. #### PCB designing using kicad.
 
-2. * How do I create a hyperlink in the readme.md file in my GitHub account which would redirect to a new page containing the project explanation?
+8. #### Used Inkscape to design the sticker to be cut by vinyle cutter (Roland), Used Vinyle cutter to cut sticker in name for putting in Laptop.
 
-3. * i create multiple files for each lab equipment explanation 
-[TEXT TO SHOW](actual URL to navigate)
+9. #### make a design of my own name and make to format of the file into .cmm using http://fabmodules.org/
 
-4. * mentor emphasized to do by yourself by using document
+10. #### End of the session by printing my name with vinyl cutter.
 
-5. * As my laptop is linux os so i could not install 3d wox so cura is alternate for that but i could not for network printing its only work through USB.
-6. * But i watch with other laptop for installation and working process of 3D WOX for printing 3D objects in Sindoh
+# Training for day 3 
+## date:-21-03-2019 
 
-7. * PCB designing using kicad.
-
-8. *  Used Inkscape to design the sticker to be cut by vinyle cutter (Roland), Used Vinyle cutter to cut sticker in name for putting in Laptop.
-
-9. * make a design of my own name and make to format of the file into .cmm using http://fabmodules.org/
-
-10. * End of the session by printing my name with vinyl cutter.
-
+1. #### installation FreeCAD 
+2. #### pcb designing using Kicad. 
+2. #### vpanel for srm 20 (only in window)
