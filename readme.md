@@ -24,9 +24,8 @@
 * This link is for Electronics equipments
 [electronics](/electronics.md)
 
-## Shop bot CNC 
-** link **
-This link is for [shopbot](/shopbot.md)
+### Shop bot CNC 
+* This link is for [shopbot](/shopbot.md)
 
  # Training for day 2 
    ## date:-19-03-2019

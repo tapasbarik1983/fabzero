@@ -1,4 +1,8 @@
-Oscilloscope, Function Generator, Power Supply, etc.
+Oscilloscope,
+
+ Function Generator, 
+ 
+ Power Supply, etc.
 
 
 
