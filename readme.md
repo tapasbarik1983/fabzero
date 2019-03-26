@@ -9,7 +9,7 @@
  ## 4.[Monofab SRM-20](/monofab.md)
  ## 5. [Electronics lab Equipments](/electronics.md) 
  ## 6. [Shop bot CNC](/shopbot.md)
- ## 7. [fablab software](/fablasoftware.md)
+ ## 7. [fablab software](/fablabsoftware.md)
  
  ## 1.Installation of visual studio.
  *  Publishing training documentation  and project to GitHub.
