@@ -1,6 +1,5 @@
 # My Experiences and Learning about      Installation and operation equipments  at of Fablab, STPI-Bhubaneswar
 
-
 # Training index
   
  ## 1.[Vinyl Cutter](/vinylcutter.md)
@@ -11,9 +10,15 @@
  ## 6. [Shop bot CNC](/shopbot.md)
  ## 7. [fablab software](/fablabsoftware.md)
  
- ## 1.Installation of visual studio.
+
+
+
+
+
+
+ ## Installation of visual studio.
  *  Publishing training documentation  and project to GitHub.
-## 2.Installation of Git Repository.
+## Installation of Git Repository.
 * Create a  repository on GitHub. .
 * Open  Bash the terminal.
 * Initialize the local directory as a Git repository. 
