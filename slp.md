@@ -1,4 +1,4 @@
-sla# Stereolithography Printer:-
+# Stereolithography Printer:-
 
 #### 1. Stereolithography (SL) is one of several methods used to create 3D-printed objects. It's the process by which a uniquely designed 3D printing machine, called a stereolithograph apparatus (SLA) converts liquid plastic into solid objects.
 
@@ -13,3 +13,6 @@ sla# Stereolithography Printer:-
 #### The light source in most SLA 3D printers is a solid-state laser. When the laser hits the galvanometers, they ensure that the beam is precisely navigated along a particular pattern. When the laser beam “touches” the resin tank, it cures the resin at that specific point. 
 
 #### When the laser finishes the curing process of a single layer, the build platform is elevated by one layer in height and the process is repeated until the part is complete.
+
+
+[go to home](/readme.md)
