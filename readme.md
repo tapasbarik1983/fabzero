@@ -10,7 +10,7 @@
  ## 6. [Shop bot CNC](/shopbot.md)
  ## 7. [fablab software](/fablabsoftware.md)
  ## 8. [PCB designing using kicad](/pcbdesigning.md)
-
+ ## 9.[Stereolithography Printer](/Stereolithographyprinter.md)
 
 
 
