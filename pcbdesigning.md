@@ -1,7 +1,4 @@
-
 #  KiCad
-
-
 
 ## Introduction 
 

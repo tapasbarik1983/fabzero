@@ -9,7 +9,7 @@
  ## 5. [Electronics lab Equipments](/electronics.md) 
  ## 6. [Shop bot CNC](/shopbot.md)
  ## 7. [fablab software](/fablabsoftware.md)
- ## 8. [PCB designing using kicad](/pcbdesigningkicad)
+ ## 8. [PCB designing using kicad](/pcbdesigning.md)
 
 
 
