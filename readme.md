@@ -2,15 +2,16 @@
 
 # Training index
   
- ## 1.[Vinyl Cutter](/vinylcutter.md)
- ## 2.[Laser cutter](/lasercutter.md)
- ## 3.[Filter Purex](/filterpurex.md)
- ## 4.[Monofab SRM-20](/monofab.md)
+ ## 1. [Vinyl Cutter](/vinylcutter.md)
+ ## 2. [Shop bot CNC](/shopbot.md)
+ ## 3. [fablab software](/fablabsoftware.md)
+ ## 4. [Monofab SRM-20](/monofab.md)
  ## 5. [Electronics lab Equipments](/electronics.md) 
- ## 6. [Shop bot CNC](/shopbot.md)
- ## 7. [fablab software](/fablabsoftware.md)
- ## 8. [PCB designing using kicad](/pcbdesigning.md)
- ## 9.[Stereolithography Printer](/slp.md)
+ ## 6. [PCB designing using kicad](/pcbdesigning.md)
+ ## 7. [Stereolithography Printer](/slp.md)
+ ## 8. [Laser cutter](/lasercutter.md)
+ ## 9. [Filter Purex](/filterpurex.md)
+
 
 
 
