@@ -24,6 +24,7 @@ Vinyl cutter in our fab lab is brand of Roland.
 
 9. set origin and decide force then start 
 
+10. #### make a design of my own name and make to format of the file into .cmm using http://fabmodules.org/
 
 ![vinyl cutter](image/vinyl1.jpg)
 

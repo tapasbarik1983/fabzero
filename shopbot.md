@@ -30,5 +30,8 @@ In the shop bot lab there are other three
  1.Scroll saw (for cutting woods)
  2.Band saw
  3.Object water jet
+
+ ![shopbot](image/lab-1.jpg)
+
  
 [go to home](/readme.md)
