@@ -7,7 +7,7 @@
 
 #### KiCad is an open-source software tool for the creation of electronic schematic diagrams and PCB artwork. Beneath its singular surface, KiCad incorporates an elegant ensemble of the following stand-alone software tools:
   
-## Program name 	Description 	File extension
+## Program name Description 	File extension
 
 #### KiCad -Project manager-*.pro
 
